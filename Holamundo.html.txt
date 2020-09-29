@@ -4,6 +4,6 @@
     </head>
     <body>
         <h1>Hola mundo</h1>
-        <h2>Hoy no me apetece aprender Git</h2>
+        <h2>Hoy es un buen día para aprender Git</h2>
     </body>
 </html>
